@@ -9,3 +9,4 @@ response = requests.get("https://api.github.com")
 print(response.status_code)  # Should print 200
 
 print("Hello, GitHub!")
+print("Hello, GitHub from VSCode!")
